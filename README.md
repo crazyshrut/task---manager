@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MERN Task Manager
 
 A MERN application for basic tasks management.
@@ -22,3 +23,7 @@ A MERN application for basic tasks management.
 
 4. Go to http://localhost:3000
 
+=======
+# task-manager
+A simple task manager web app made with mern stack
+>>>>>>> origin/main
